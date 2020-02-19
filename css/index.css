@@ -1,0 +1,19 @@
+body{
+background-image: url('../akan.jpeg');
+background-repeat: repeat;
+}
+title{
+    text-align: center;
+}
+p {
+    color: blue;
+}
+.label {
+    size: 5cm;
+    table-layout: initial;
+}
+.container {
+    background-color: lightseagreen;
+    text-size-adjust: 30px;
+    text-decoration-thickness: 2cm;
+}

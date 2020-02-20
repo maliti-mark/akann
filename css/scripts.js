@@ -4,7 +4,7 @@ function formRefresh(){
 }
 
 // Event function on button
-function akanNames(){
+function akanNaming(){
 
     var birthDate=document.getElementById("birthdate").value;
     var dateEntered= birthDate.split("-");

@@ -1,9 +1,7 @@
 body{
-background-image: url('../akan.jpeg');
-background-repeat: repeat;
-}
-title{
-    text-align: center;
+background-color: rgb(68, 63, 63);
+background-size: cover;
+background-position: center;
 }
 p {
     color: blue;
@@ -12,7 +10,7 @@ p {
     size: 5cm;
     table-layout: initial;
 }
-.container {
-    background-color: lightseagreen;
-    text-size-adjust: 30px;
+#heading {
+    background-color: rgb(44, 88, 44)
+    text-size-adjust: 30px;   
 }

@@ -11,4 +11,8 @@ The project entails the ghanan naming system, Akan, where children are being nam
 ### License
 *{This application can be applied in various circumstances eg naming of our born children and determining their dat of birth and age since most of us do not know the day of the week our children were born.}*
 Copyright (c) {year} **{mark maliti}**
+<<<<<<< HEAD
 # akan-names
+=======
+# akan-names
+>>>>>>> 91bbafd27964caa51f51cbe8721a839ca55aaa22

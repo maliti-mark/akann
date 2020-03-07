@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 // Event function on button
 function akanName(){
@@ -15,6 +16,8 @@ function akanName(){
 
     document.getElementById("result").innerHTML=Math.round(dayOfTheWeek);
 =======
+=======
+>>>>>>> b873a8ee262af0bc98899adcf26e9b50a702b44f
 // Function to refresh the form after submition
 function formRefresh(){
     document.getElementById("form_data").reset();
@@ -34,11 +37,15 @@ function akanNames(){
     var dayOfTheWeek = ( centry/4 -2*centry-1 + 5*year/4  + 26*(month+1)/10 + day ) % 7;
 
     document.getElementById("display").innerHTML=Math.round(dayOfTheWeek);
+<<<<<<< HEAD
 >>>>>>> 91bbafd27964caa51f51cbe8721a839ca55aaa22
+=======
+>>>>>>> b873a8ee262af0bc98899adcf26e9b50a702b44f
     var femaleNames=["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
     var maleNames=["Kwasi"," Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
     var gender=document.getElementById("gender").value;
     var daysOfWeek=["Sunday", "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+<<<<<<< HEAD
 <<<<<<< HEAD
     var weekDay = Math.round(dayOfTheWeek)
 
@@ -70,6 +77,8 @@ function formRefresh(){
 
       
 =======
+=======
+>>>>>>> b873a8ee262af0bc98899adcf26e9b50a702b44f
     var dOfWeek = Math.round(dayOfTheWeek)
 
     //form validation and output
@@ -93,4 +102,7 @@ function formRefresh(){
     //call to the reFresh function
     formRefresh();
 }
+<<<<<<< HEAD
 >>>>>>> 91bbafd27964caa51f51cbe8721a839ca55aaa22
+=======
+>>>>>>> b873a8ee262af0bc98899adcf26e9b50a702b44f
